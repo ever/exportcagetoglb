@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jQuery": "^1.7.4",
+    "requirejs": "^2.3.6",
+    "three": "^0.142.0"
+  },
+  "name": "3js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/three": "^0.143.0"
+  },
+  "description": ""
+}

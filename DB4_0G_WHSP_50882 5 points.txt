@@ -1,0 +1,51 @@
+ {
+    "spatialId": "DB4_0G_WHSP_50882",
+    "area": 7070343.5,
+    "units": "Millimeters",
+    "validated": null,
+    "validatedId": null,
+    "parentSpatialId": "DB4_0G_ARCH_71324",
+    "ibx": "DB4",
+    "floor": "0G",
+    "sourceDwg": "WHSP",
+    "layer": "CAGE_INFO",
+    "geometryType": "Polygon",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            8079.04024103,
+            -57064.99999985
+          ],
+          [
+            8079.04024103,
+            -54190.00000496
+          ],
+          [
+            10538.29024103,
+            -54190.00000496
+          ],
+          [
+            10538.29024103,
+            -57064.99999985
+          ],
+          [
+            8079.04024103,
+            -57064.99999985
+          ]
+        ]
+      ]
+    },
+    "width": 0,
+    "depth": 0,
+    "rotation": 0,
+    "radius": 0,
+    "externalRefId": "20160714_261439",
+    "externalRefDesc": "DB4:0G:00FEC1",
+    "createdBy": "lmoore",
+    "createdDate": "2021-04-14T12:42:25.467+00:00",
+    "lastUpdatedBy": "CK-HYD-0039",
+    "lastUpdatedDate": "2022-07-29T10:30:02.568+00:00",
+    "wktGeometry": "POLYGON ((8079.04024103 -57064.99999985, 8079.04024103 -54190.00000496, 10538.29024103 -54190.00000496, 10538.29024103 -57064.99999985, 8079.04024103 -57064.99999985))"
+  }
